@@ -1,2 +1,2 @@
 # javascript30
-a repository of small javascript projects, where I learn javascript concepts via projects
+a repository of javascript projects, where I learn javascript concepts in the form of small projects
